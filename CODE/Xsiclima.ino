@@ -13,18 +13,18 @@
 //Aqui defino mis credenciales
 #define WIFI_SSID "SEGUNDO-P 2.4"
 #define WIFI_PASSWORD "segundop"
-#define API_KEY "N9WkM8YXXhLxuRFx3Z4bceXtT"
-#define API_SECRET "BizQlfQC1TRBL6ycglOmXHTl4GDIOqzYfZcX0sogCM6uyh3EKG"
-#define ACCESS_TOKEN "1864779765435047936-XYta2wo053g1OnrojD1Ep69lFHfRgQ"
-#define ACCESS_TOKEN_SECRET "YYNzzWEHTex7hzZmnFADSkgCbtLy2KOmvS3h5lemhys8t"
-String apiKey = "PCQSJW04WT62UW4L"; 
+#define API_KEY " "
+#define API_SECRET " "
+#define ACCESS_TOKEN " "
+#define ACCESS_TOKEN_SECRET " "
+String apiKey = " "; 
 
 const char* mqttServer = "mqtt3.thingspeak.com";
 const int mqttPort = 1883;
 
-const char* mqttClientID = "FyIvNgkoOjEcIjEQPAAyFCA";
-const char* mqttUser = "FyIvNgkoOjEcIjEQPAAyFCA";
-const char* mqttPassword = "b06n7IXaAm7rJq+Cf6Oy6lK9";
+const char* mqttClientID = " ";
+const char* mqttUser = " ";
+const char* mqttPassword = " 9";
 
 WiFiClient espClient;
 PubSubClient mqttClient(espClient);
