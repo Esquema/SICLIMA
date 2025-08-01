@@ -8,7 +8,10 @@ Este proyecto fue desarrollado como parte del curso de **Robótica II** en la **
 
 Puedes visualizar el analisis de datos de este proyecto en Google Colab siguiendo este enlace:  
 [Abrir en Colab](https://colab.research.google.com/drive/1RCNS-Zv03v3Y_tpK35pkZRGBoZ_7V77F?usp=sharing)
+---
 
+Puedes acceder a mi archivo de Google Sheets aquí:  
+[Ver Google Sheets](https://docs.google.com/spreadsheets/d/1KEA1OsQ9RjKf0bjdE09xoQ-zeRiu_BpkznGGlIBRlb0/edit?usp=sharing)
 ---
 
 ## 📦 Características
