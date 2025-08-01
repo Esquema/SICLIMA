@@ -49,5 +49,4 @@ Este proyecto fue desarrollado como parte del curso de **Robótica II** en la **
 | <img src="https://github.com/Esquema.png" width="80" height="80" /> | **Ever Quispe** | Sistema Meteorológico (sensores, IoT, Twitter,ThingSpeak ) | [@Esquema](https://github.com/Esquema) |
 
 
-## 📁 Estructura del repositorio
 
